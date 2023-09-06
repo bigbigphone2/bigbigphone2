@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="left">Hi ! I am Chris.</h1>
 
-<!--
-**bigbigphone2/bigbigphone2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">A passionate full stack software developer.</h3>
+<div align="left"> 
+  <a href="chrisleebed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/chris-lee-675199219/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+ <hr/>
+ 
+<h3 align="left">Technical Skills</h3>
+<div align="left">
+    <h4>Languages: </h4>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css"/><br>
+    <h4>Frameworks: </h4>
+    <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,mui,jest,django,spring" /><br>
+    <h4>Others: </h4>
+    <img src="https://skillicons.dev/icons?i=kubernetes,kafka,docker,mysql,postgres,redis,postman,vscode,figma,git,github,gitlab" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<hr/>
+
+<br/>
