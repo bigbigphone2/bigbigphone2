@@ -2,7 +2,7 @@
 
 <h3 align="left">A passionate full stack software developer.</h3>
 <div align="left"> 
-  <a href="chrisleebed@gmail.com">
+  <a href="mailto:chrisleebed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/chris-lee-675199219/" target="_blank">
